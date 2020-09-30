@@ -1,0 +1,3 @@
+@function calculator($parametar){
+    @return ($parametar / 16)  * 1rem;
+}
